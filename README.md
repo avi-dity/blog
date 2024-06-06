@@ -1,1 +1,1 @@
-<H1>ENOUGH</H1>
+<H1 align="center">ENOUGH</H1>
